@@ -1,0 +1,1383 @@
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\appsettings.Development.json
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\appsettings.json
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.exe
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.deps.json
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.json
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.dev.json
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\mscorlib.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\netstandard.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Collections.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Console.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Core.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Data.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Linq.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Memory.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Web.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Windows.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Humanizer.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.BLL.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.AssemblyReference.cache
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfoInputs.cache
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfo.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CoreCompileInputs.cache
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cache
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cache
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\scopedcss\bundle\Demo.PL.styles.css
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\staticwebassets\Demo.PL.StaticWebAssets.Manifest.cache
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.input.cache
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.output.cache
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorCoreGenerate.cache
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cache
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.Views.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CopyComplete
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\refint\Demo.PL.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.genruntimeconfig.cache
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\ref\Demo.PL.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Details.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_ButtonPartialView.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialViews\CreateEditDepartmentPartialView.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialViews\DetailsDeleteDepatmentPartialView.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialViews\CreateEditEmployeeView.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialViews\DetailsDeleteEmployeeView.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\AutoMapper.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\appsettings.json
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.exe
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.deps.json
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.json
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.dev.json
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.pdb
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.pdb
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Humanizer.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.AssemblyReference.cache
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfoInputs.cache
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfo.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CoreCompileInputs.cache
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cache
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\scopedcss\bundle\Demo.PL.styles.css
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\staticwebassets\Demo.PL.StaticWebAssets.Manifest.cache
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.input.cache
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.output.cache
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorCoreGenerate.cache
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialViews\CreateEditDepartmentPartialView.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialViews\DetailsDeleteDepatmentPartialView.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Details.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialViews\CreateEditEmployeeView.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialViews\DetailsDeleteEmployeeView.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_ButtonPartialView.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cache
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.Views.pdb
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CopyComplete
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\refint\Demo.PL.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.pdb
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.genruntimeconfig.cache
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\ref\Demo.PL.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\CompleteForgetPassword.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\PartialViews\DetailsDeleteUserView.cshtml.g.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\PartialViews\EditUserView.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\appsettings.Development.json
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\appsettings.json
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.exe
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.deps.json
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.json
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.dev.json
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.pdb
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\mscorlib.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\netstandard.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Collections.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Console.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Core.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Data.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Linq.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Memory.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Web.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Windows.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.pdb
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\AutoMapper.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Humanizer.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.BLL.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.DAL.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\For Cv\Back-End\G02 Solution\Demo.PL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.AssemblyReference.cache
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfoInputs.cache
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfo.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CoreCompileInputs.cache
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cache
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cache
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\scopedcss\bundle\Demo.PL.styles.css
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\staticwebassets\Demo.PL.StaticWebAssets.Manifest.cache
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.input.cache
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.output.cache
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorCoreGenerate.cache
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\CompleteForgetPassword.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialViews\CreateEditDepartmentPartialView.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialViews\DetailsDeleteDepatmentPartialView.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Details.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialViews\CreateEditEmployeeView.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialViews\DetailsDeleteEmployeeView.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_ButtonPartialView.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\PartialViews\DetailsDeleteUserView.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\PartialViews\EditUserView.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cache
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cs
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.Views.pdb
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CopyComplete
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\refint\Demo.PL.dll
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.pdb
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\Demo.PL.genruntimeconfig.cache
+D:\For Cv\Back-End\G02 Solution\Demo.PL\obj\Debug\net5.0\ref\Demo.PL.dll

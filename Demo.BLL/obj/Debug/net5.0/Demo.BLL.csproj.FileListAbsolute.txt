@@ -1,0 +1,45 @@
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Mvc\G02 Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\laptop world\Desktop\G02 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\laptop world\Desktop\G02 Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\laptop world\Desktop\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\laptop world\Desktop\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop world\Desktop\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\laptop world\Desktop\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\laptop world\Desktop\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\laptop world\Desktop\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+C:\Users\laptop world\Desktop\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\laptop world\Desktop\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\laptop world\Desktop\G02 Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+D:\For Cv\Back-End\G02 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\For Cv\Back-End\G02 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\For Cv\Back-End\G02 Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\For Cv\Back-End\G02 Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\For Cv\Back-End\G02 Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\For Cv\Back-End\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\For Cv\Back-End\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\For Cv\Back-End\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\For Cv\Back-End\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\For Cv\Back-End\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\For Cv\Back-End\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+D:\For Cv\Back-End\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\For Cv\Back-End\G02 Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+D:\For Cv\Back-End\G02 Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\For Cv\Back-End\G02 Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
